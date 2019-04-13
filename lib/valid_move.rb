@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 def valid_move(user_input, user_input = x)
-  user_input = gets.chomp
+  user_input = gets.chomp +=1
   puts position_taken
 end
 
